@@ -168,6 +168,11 @@ body {
   }
 }
 
+.boxAbout .box i {
+  margin: 10px 10px 0;
+  font-size: 1.2vw;
+}
+
 .boxAbout .box img {
   width: 300px;
   height: 400px;
